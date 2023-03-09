@@ -1,0 +1,21 @@
+{
+  "name": "websitetemplate",
+  "version": "1.0.0",
+  "description": "Website template used to create quick and headless new project",
+  "scripts": {
+    "dev": "npx parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spitzer46/WebSiteTemplate.git"
+  },
+  "author": "a.portal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spitzer46/WebSiteTemplate/issues"
+  },
+  "homepage": "https://github.com/Spitzer46/WebSiteTemplate#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
